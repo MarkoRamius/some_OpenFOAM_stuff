@@ -5,7 +5,7 @@ using namespace Foam;
 
 int main(int argc, char *argv[])
 {
-	Info << "Hello OpenFOAM!" << endl;
-	
+	Info << "Hello OpenFOAM World!" << endl;
+
 	return 0;
 }
